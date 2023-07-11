@@ -1,4 +1,4 @@
-**Description**
+**Description**<br>
 Introducing "The Zone" - Your Ultimate Food Delivery Companion!
 
 The Zone is an innovative and user-friendly food delivery app designed to revolutionize the way you order and enjoy your favorite meals. Whether you're craving a quick bite, exploring new culinary experiences, or simply seeking convenience, FoodEase has got you covered.
