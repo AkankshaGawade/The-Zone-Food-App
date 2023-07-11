@@ -109,7 +109,7 @@ const Login = () => {
         {/*Top logo section*/}
         <div className="flex items-center justify-start gap-4 w-full">
           <img src={Logo} className="w-8" alt="" />
-          <p className="text-headingColor font-semibold text-3xl">city</p>
+          <p className="text-headingColor font-semibold text-3xl">The Zone</p>
         </div>
         {/*Welcome text */}
         <p className="text-3xl font-semibold text-headingColor">Welcome Back</p>
