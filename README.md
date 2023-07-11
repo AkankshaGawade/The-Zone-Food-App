@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+#Description
+Introducing "The Zone" - Your Ultimate Food Delivery Companion!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Zone is an innovative and user-friendly food delivery app designed to revolutionize the way you order and enjoy your favorite meals. Whether you're craving a quick bite, exploring new culinary experiences, or simply seeking convenience, FoodEase has got you covered.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#Login Screen
+![Screenshot 2023-07-11 104043](https://github.com/AkankshaGawade/The-Zone-Food-App/assets/87490936/c1456e28-8375-4971-b5c6-8b4dbdb5f754)
+#Home Page
+![Screenshot 2023-07-11 103841](https://github.com/AkankshaGawade/The-Zone-Food-App/assets/87490936/8fda9b0a-72ad-4232-9c29-7db6eb68b7a0)
+#cart
+![Screenshot 2023-07-11 104245](https://github.com/AkankshaGawade/The-Zone-Food-App/assets/87490936/e5835908-d27d-4608-b97b-acdd8aed3d9d)
+#Stripe payment gateway
+![Screenshot 2023-07-11 104352](https://github.com/AkankshaGawade/The-Zone-Food-App/assets/87490936/7221235a-9d2c-48c4-9257-62f0a73970ce)
